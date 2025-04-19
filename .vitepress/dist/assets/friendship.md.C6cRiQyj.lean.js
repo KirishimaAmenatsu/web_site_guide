@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as a,ae as n}from"./chunks/framework.tuuL-SzM.js";const f=JSON.parse('{"title":"友情链接","description":"","frontmatter":{},"headers":[],"relativePath":"friendship.md","filePath":"friendship.md"}'),d={name:"friendship.md"};function o(s,t,i,l,h,_){return a(),r("div",null,t[0]||(t[0]=[n("",3)]))}const p=e(d,[["render",o]]);export{f as __pageData,p as default};
