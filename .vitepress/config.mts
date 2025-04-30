@@ -22,6 +22,7 @@ export default defineConfig({
         text: '网址导航',
         items: [
           { text: '雨夏自己的网站', link: '/rainsummer' },
+          { text: 'ACGN相关', link: '/acgn' },
           { text: '友情链接', link: '/friendship' }
         ]
       }
