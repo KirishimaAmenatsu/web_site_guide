@@ -8,7 +8,7 @@
 ---
 ## 申请
 - ### 推荐的方式（按推荐度排序）
-    1. 向本站的GitHub主页提交PR
+    1. 向本站的GitHub仓库提交PR
     2. 向[雨夏发邮件](mailto:rainsummertse@outlook.com)
     3. 各种Q群@
 - ### 不那么推荐的方式
