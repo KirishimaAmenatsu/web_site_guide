@@ -5,3 +5,14 @@
 | [叶钻猫猫的小站](https://raineko.net)        |      叶钻猫猫的小站，也很好看w      |
 | [夜曦的blog](https://www.yorushi.com/) | 夜曦麻麻的blog |
 | [RCBS的主页](https://bousai.cn/) | 软长白山……啊不，RCBS 的主页 |
+---
+## 申请
+- ### 推荐的方式（按推荐度排序）
+    1. 向本站的GitHub主页提交PR
+    2. 向[雨夏发邮件](mailto:rainsummertse@outlook.com)
+    3. 各种Q群@
+- ### 不那么推荐的方式
+    - 写信（效率过低）
+    - 业余无线电通联（还没考证）
+    - ~~托梦（基本不做梦，做了也容易忘）~~
+    - 线下~~殴打~~贴贴（高考前没时间）
