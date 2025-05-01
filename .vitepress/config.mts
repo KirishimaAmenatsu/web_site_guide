@@ -13,7 +13,7 @@ export default defineConfig({
       { text: 'Over View', link: '/over-view' }
     ],
     footer: {
-      message:'License Under CC BY 3.0 CN',
+      message:'License Under <a href="https://creativecommons.org/licenses/by/3.0/cn/" target="_blank">CC BY 3.0 CN</a> <br> <a href="https://icp.gov.moe/?keyword=20251120" target="_blank">萌ICP备20251120号</a>',
       copyright:'Copyright ©  RainSummer'
     },
 
