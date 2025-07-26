@@ -6,6 +6,7 @@
 | [山茶CamelliaTse的个人网站](https://camelliatse.yuanchu.link) | 鲨鱼~鲨鱼~ |
 | [叶钻猫猫的小站](https://raineko.net)        |      叶钻猫猫的小站，也很好看w      |
 | [Wolfx Project](https://wolfx.jp/) | 提供一堆~~奇奇怪怪~~实用服务的公益项目 |
+| [熙禾的个人网站](https://xihe.page) | 熙禾酱w |
 | [夜曦的blog](https://www.yorushi.com/) | 夜曦麻麻的blog |
 | [源初计划](https://www.yuanchu.link) | 每个人都有无限可能 |
 
