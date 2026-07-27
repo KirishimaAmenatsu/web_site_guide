@@ -3,7 +3,7 @@
 | 名称 | 简介 |
 | ------------- | :-----------: |
 | [RCBS的主页](https://bousai.cn/) | 软长白山……啊不，RCBS 的主页 |
-| [山茶CamelliaTse的个人网站](https://camelliatse.yuanchu.link) | 鲨鱼~鲨鱼~ |
+| [山茶CamelliaTse的个人网站](https://camelliatse.com) | 鲨鱼~鲨鱼~ |
 | [叶钻猫猫的小站](https://raineko.net)        |      叶钻猫猫的小站，也很好看w      |
 | [Wolfx Project](https://wolfx.jp/) | 提供一堆~~奇奇怪怪~~实用服务的公益项目 |
 | [熙禾的个人网站](https://xihe.page) | 熙禾酱w |
